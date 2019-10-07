@@ -3,7 +3,6 @@ package com.cxy.web;
 import com.alibaba.fastjson.JSONObject;
 import com.cxy.bean.System;
 import com.cxy.common.ApiResponse;
-import com.cxy.dao.BaseController;
 import com.cxy.service.impl.SystemServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

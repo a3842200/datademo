@@ -1,4 +1,4 @@
-package com.cxy.dao;
+package com.cxy.web;
 
 import org.springframework.stereotype.Controller;
 
